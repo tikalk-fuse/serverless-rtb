@@ -1,0 +1,22 @@
+{
+  "name": "serverless-rtb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tikalk-fuse/serverless-rtb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tikalk-fuse/serverless-rtb/issues"
+  },
+  "homepage": "https://github.com/tikalk-fuse/serverless-rtb#readme",
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  }
+}
